@@ -12,3 +12,6 @@ go = "1.26"
 
 # Rust
 rust = "latest"
+
+# Utility
+"aqua:peteretelej/tree" = "latest"
