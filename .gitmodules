@@ -12,4 +12,4 @@
 	url = git@github.com:expresso-code-org/go-backend-masterclass.git
 [submodule "forks/ai-engineering-from-scratch"]
 	path = forks/ai-engineering-from-scratch
-	url = git@github.com:rohitg00/ai-engineering-from-scratch.git
+	url = git@github.com:expresso-code-org/ai-engineering-learning.git
