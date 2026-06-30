@@ -16,3 +16,6 @@
 [submodule "projects/container-ui"]
 	path = projects/container-ui
 	url = git@github.com:expresso-code-org/apple-container-ui.git
+[submodule "projects/knowledge-forest-README"]
+	path = projects/knowledge-forest-README
+	url = git@github.com:knowledge-forest/knowledge-forest.git
