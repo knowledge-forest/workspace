@@ -19,3 +19,6 @@
 [submodule "projects/knowledge-forest-README"]
 	path = projects/knowledge-forest-README
 	url = git@github.com:knowledge-forest/knowledge-forest.git
+[submodule "forks/jobsmith"]
+	path = forks/jobsmith
+	url = git@github.com:kevin333353/jobsmith.git
